@@ -1,3 +1,3 @@
 # hello-world
 My first repository 
-My name is Deeply. I love Python and games and a challenge. 
+My name is Decolt. I love Python and games and a challenge. 
